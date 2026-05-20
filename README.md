@@ -34,7 +34,8 @@ As an open source maintainer, I know how painful it is to manage issues. Creatin
 - **Frontend**: React + Tailwind CSS  
 - **Backend**: Node.js + Express  
 - **Database**: PostgreSQL  
-- **Authentication**: GitHub OAuth  
+- **Authentication**: GitHub OAuth
+- **Monorepo**: Turborepo  
 
 ## Contribution
 

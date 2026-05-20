@@ -1,4 +1,4 @@
-# Issue Matrix
+# IssueMatrix
 
 **Making GitHub issue creation faster and smarter for open source maintainers.**
 
@@ -6,7 +6,7 @@
 
 As an open source maintainer, I know how painful it is to manage issues. Creating issues one by one, writing proper descriptions, going through the whole repository to understand the context, and worrying about duplicate issues — it takes a lot of time and energy.
 
-**Issue Matrix** is built to solve exactly these problems. It lets you create multiple issues in parallel, automatically analyzes your repository using RAG to generate high-quality issue descriptions, and helps you identify duplicate issues before they get created.
+**IssueMatrix** is built to solve exactly these problems. It lets you create multiple issues in parallel, automatically analyzes your repository using RAG to generate high-quality issue descriptions, and helps you identify duplicate issues before they get created.
 
 ## Features
 
@@ -38,7 +38,7 @@ As an open source maintainer, I know how painful it is to manage issues. Creatin
 
 ## Contribution
 
-Contributors to Issue Matrix are warmly welcome! Feel free to open issues and send pull requests for any improvements or bug fixes.
+Contributors to IssueMatrix are warmly welcome! Feel free to open issues and send pull requests for any improvements or bug fixes.
 
 ---
 
